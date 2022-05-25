@@ -1,2 +1,2 @@
 # Procfile
-web: java -Dserver.port=9823 $JAVA_OPTS -jar target/registry.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/registry.jar
