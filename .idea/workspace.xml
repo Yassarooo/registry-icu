@@ -40,7 +40,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-icu" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
@@ -66,7 +66,7 @@
       <workItem from="1653519776390" duration="104000" />
       <workItem from="1653519889803" duration="1768000" />
       <workItem from="1653522667238" duration="20000" />
-      <workItem from="1653522780539" duration="1312000" />
+      <workItem from="1653522780539" duration="2354000" />
     </task>
     <servers />
   </component>
@@ -86,21 +86,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653520710737">
+    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653525502992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1653520710737" />
-    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1653520696205">
+    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1653525502992" />
+    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1653525502303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1653520696205" />
+    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1653525502303" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1653523653669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1653523653669" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1653519919439">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1653525616570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1653519919439" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1653525616570" />
   </component>
 </project>
