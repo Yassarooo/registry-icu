@@ -2,7 +2,7 @@ server:
   port: ${PORT:8761}
 eureka:
   instance:
-    hostname: localhost
+    hostname: registry-icu.herokuapp.com
     prefer-ip-address: false
   client:
     registerWithEureka: false
