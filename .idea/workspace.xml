@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51dfa326-a3d3-49a9-9bfc-bcaf5cba9373" name="Default Changelist" comment="" />
+    <list default="true" id="51dfa326-a3d3-49a9-9bfc-bcaf5cba9373" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +41,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-icu" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="RegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -66,7 +69,9 @@
       <workItem from="1653519776390" duration="104000" />
       <workItem from="1653519889803" duration="1768000" />
       <workItem from="1653522667238" duration="20000" />
-      <workItem from="1653522780539" duration="2354000" />
+      <workItem from="1653522780539" duration="2361000" />
+      <workItem from="1653534078617" duration="73000" />
+      <workItem from="1653534162849" duration="526000" />
     </task>
     <servers />
   </component>
@@ -86,21 +91,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653525502992">
+    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653534217658">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1653525502992" />
-    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1653525502303">
+    <state x="113" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1653534217658" />
+    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1653534216332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1653525502303" />
+    <state x="388" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1653534216332" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1653523653669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1653523653669" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1653525616570">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1653534685016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1653525616570" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1653534685016" />
   </component>
 </project>
