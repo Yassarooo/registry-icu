@@ -8,7 +8,7 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
     service-url:
-      defaultZone: http://${security.user.name}:${security.user.password}@${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://${security.user.name}:${security.user.password}@registry-icu.herokuapp.com/eureka/
 
 security:
   user:
