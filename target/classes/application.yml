@@ -1,17 +1,21 @@
 server:
   port: ${PORT:8761}
-
 eureka:
   instance:
-    hostname: localhost
-    prefer-ip-address: true
+    hostname: registry-icu.herokuapp.com
+    non-secure-port: 80
+    prefer-ip-address: false
   client:
     registerWithEureka: false
     fetchRegistry: false
     service-url:
-      defaultZone: http://${security.user.name}:${security.user.password}@${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: https://${security.user.name}:${security.user.password}@registry-icu.herokuapp.com/eureka/
 
 security:
   user:
     name: user
     password: ${REGISTRY_SERVER_PASSWORD:password}
+
+jasypt:
+  encryptor:
+    password: jazaradebuggers
