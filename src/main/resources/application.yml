@@ -11,11 +11,12 @@ eureka:
     service-url:
       defaultZone: https://${security.user.name}:${security.user.password}@registry-icu.herokuapp.com/eureka/
 
-security:
-  user:
-    name: user
-    password: ${REGISTRY_SERVER_PASSWORD:password}
-
 jasypt:
   encryptor:
     password: jazaradebuggers
+
+spring:
+  security:
+    user:
+      name: user
+      password: ${REGISTRY_SERVER_PASSWORD:password}
