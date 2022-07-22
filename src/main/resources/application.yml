@@ -9,7 +9,7 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
     service-url:
-      defaultZone: https://${security.user.name}:${security.user.password}@icu-registry.herokuapp.com/eureka
+      defaultZone: https://${spring.security.user.name}:${spring.security.user.password}@icu-registry.herokuapp.com/eureka
 
 jasypt:
   encryptor:
